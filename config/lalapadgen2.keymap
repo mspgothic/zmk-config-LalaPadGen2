@@ -54,8 +54,13 @@
         };
 
         COMBO_L1 {
-            bindings = <&kp TAB>;
+            bindings = <&kp LANGUAGE_1>;
             key-positions = <13 12>;
+        };
+
+        COMBO_L2 {
+            bindings = <&kp LANGUAGE_2>;
+            key-positions = <16 17>;
         };
     };
 
