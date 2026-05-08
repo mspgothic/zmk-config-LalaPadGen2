@@ -50,12 +50,12 @@
 
         CONBO_ESC {
             bindings = <&kp ESCAPE>;
-            key-positions = <0 1>;
+            key-positions = <30 31>;
         };
 
-        COMBO_TAB {
+        COMBO_L1 {
             bindings = <&kp TAB>;
-            key-positions = <10 11>;
+            key-positions = <13 12>;
         };
     };
 
